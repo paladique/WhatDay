@@ -1,0 +1,17 @@
+{
+  "intents": [
+    {
+      "intent": "WhatDayIntent",
+      "slots": [
+        {
+          "name": "day",
+          "type": "DATE"
+        }
+      ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}

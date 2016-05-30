@@ -1,0 +1,380 @@
+WhatDayIntent {january first|day}
+WhatDayIntent {january second|day}
+WhatDayIntent {january third|day}
+WhatDayIntent {january fourth|day}
+WhatDayIntent {january fifth|day}
+WhatDayIntent {january sixth|day}
+WhatDayIntent {january seventh|day}
+WhatDayIntent {january eighth|day}
+WhatDayIntent {january ninth|day}
+WhatDayIntent {january tenth|day}
+WhatDayIntent {january eleventh|day}
+WhatDayIntent {january twelfth|day}
+WhatDayIntent {january thirteenth|day}
+WhatDayIntent {january fourteenth|day}
+WhatDayIntent {january fifteenth|day}
+WhatDayIntent {january sixteenth|day}
+WhatDayIntent {january seventeenth|day}
+WhatDayIntent {january eighteenth|day}
+WhatDayIntent {january nineteenth|day}
+WhatDayIntent {january twentieth|day}
+WhatDayIntent {january twenty first|day}
+WhatDayIntent {january twenty second|day}
+WhatDayIntent {january twenty third|day}
+WhatDayIntent {january twenty fourth|day}
+WhatDayIntent {january twenty fifth|day}
+WhatDayIntent {january twenty sixth|day}
+WhatDayIntent {january twenty seventh|day}
+WhatDayIntent {january twenty eighth|day}
+WhatDayIntent {january twenty ninth|day}
+WhatDayIntent {january thirtieth|day}
+WhatDayIntent {january thirty first|day}
+WhatDayIntent {february first|day}
+WhatDayIntent {february second|day}
+WhatDayIntent {february third|day}
+WhatDayIntent {february fourth|day}
+WhatDayIntent {february fifth|day}
+WhatDayIntent {february sixth|day}
+WhatDayIntent {february seventh|day}
+WhatDayIntent {february eighth|day}
+WhatDayIntent {february ninth|day}
+WhatDayIntent {february tenth|day}
+WhatDayIntent {february eleventh|day}
+WhatDayIntent {february twelfth|day}
+WhatDayIntent {february thirteenth|day}
+WhatDayIntent {february fourteenth|day}
+WhatDayIntent {february fifteenth|day}
+WhatDayIntent {february sixteenth|day}
+WhatDayIntent {february seventeenth|day}
+WhatDayIntent {february eighteenth|day}
+WhatDayIntent {february nineteenth|day}
+WhatDayIntent {february twentieth|day}
+WhatDayIntent {february twenty first|day}
+WhatDayIntent {february twenty second|day}
+WhatDayIntent {february twenty third|day}
+WhatDayIntent {february twenty fourth|day}
+WhatDayIntent {february twenty fifth|day}
+WhatDayIntent {february twenty sixth|day}
+WhatDayIntent {february twenty seventh|day}
+WhatDayIntent {february twenty eighth|day}
+WhatDayIntent {february twenty ninth|day}
+WhatDayIntent {march first|day}
+WhatDayIntent {march second|day}
+WhatDayIntent {march third|day}
+WhatDayIntent {march fourth|day}
+WhatDayIntent {march fifth|day}
+WhatDayIntent {march sixth|day}
+WhatDayIntent {march seventh|day}
+WhatDayIntent {march eighth|day}
+WhatDayIntent {march ninth|day}
+WhatDayIntent {march tenth|day}
+WhatDayIntent {march eleventh|day}
+WhatDayIntent {march twelfth|day}
+WhatDayIntent {march thirteenth|day}
+WhatDayIntent {march fourteenth|day}
+WhatDayIntent {march fifteenth|day}
+WhatDayIntent {march sixteenth|day}
+WhatDayIntent {march seventeenth|day}
+WhatDayIntent {march eighteenth|day}
+WhatDayIntent {march nineteenth|day}
+WhatDayIntent {march twentieth|day}
+WhatDayIntent {march twenty first|day}
+WhatDayIntent {march twenty second|day}
+WhatDayIntent {march twenty third|day}
+WhatDayIntent {march twenty fourth|day}
+WhatDayIntent {march twenty fifth|day}
+WhatDayIntent {march twenty sixth|day}
+WhatDayIntent {march twenty seventh|day}
+WhatDayIntent {march twenty eighth|day}
+WhatDayIntent {march twenty ninth|day}
+WhatDayIntent {march thirtieth|day}
+WhatDayIntent {march thirty first|day}
+WhatDayIntent {april first|day}
+WhatDayIntent {april second|day}
+WhatDayIntent {april third|day}
+WhatDayIntent {april fourth|day}
+WhatDayIntent {april fifth|day}
+WhatDayIntent {april sixth|day}
+WhatDayIntent {april seventh|day}
+WhatDayIntent {april eighth|day}
+WhatDayIntent {april ninth|day}
+WhatDayIntent {april tenth|day}
+WhatDayIntent {april eleventh|day}
+WhatDayIntent {april twelfth|day}
+WhatDayIntent {april thirteenth|day}
+WhatDayIntent {april fourteenth|day}
+WhatDayIntent {april fifteenth|day}
+WhatDayIntent {april sixteenth|day}
+WhatDayIntent {april seventeenth|day}
+WhatDayIntent {april eighteenth|day}
+WhatDayIntent {april nineteenth|day}
+WhatDayIntent {april twentieth|day}
+WhatDayIntent {april twenty first|day}
+WhatDayIntent {april twenty second|day}
+WhatDayIntent {april twenty third|day}
+WhatDayIntent {april twenty fourth|day}
+WhatDayIntent {april twenty fifth|day}
+WhatDayIntent {april twenty sixth|day}
+WhatDayIntent {april twenty seventh|day}
+WhatDayIntent {april twenty eighth|day}
+WhatDayIntent {april twenty ninth|day}
+WhatDayIntent {april thirtieth|day}
+WhatDayIntent {may first|day}
+WhatDayIntent {may second|day}
+WhatDayIntent {may third|day}
+WhatDayIntent {may fourth|day}
+WhatDayIntent {may fifth|day}
+WhatDayIntent {may sixth|day}
+WhatDayIntent {may seventh|day}
+WhatDayIntent {may eighth|day}
+WhatDayIntent {may ninth|day}
+WhatDayIntent {may tenth|day}
+WhatDayIntent {may eleventh|day}
+WhatDayIntent {may twelfth|day}
+WhatDayIntent {may thirteenth|day}
+WhatDayIntent {may fourteenth|day}
+WhatDayIntent {may fifteenth|day}
+WhatDayIntent {may sixteenth|day}
+WhatDayIntent {may seventeenth|day}
+WhatDayIntent {may eighteenth|day}
+WhatDayIntent {may nineteenth|day}
+WhatDayIntent {may twentieth|day}
+WhatDayIntent {may twenty first|day}
+WhatDayIntent {may twenty second|day}
+WhatDayIntent {may twenty third|day}
+WhatDayIntent {may twenty fourth|day}
+WhatDayIntent {may twenty fifth|day}
+WhatDayIntent {may twenty sixth|day}
+WhatDayIntent {may twenty seventh|day}
+WhatDayIntent {may twenty eighth|day}
+WhatDayIntent {may twenty ninth|day}
+WhatDayIntent {may thirtieth|day}
+WhatDayIntent {may thirty first|day}
+WhatDayIntent {june first|day}
+WhatDayIntent {june second|day}
+WhatDayIntent {june third|day}
+WhatDayIntent {june fourth|day}
+WhatDayIntent {june fifth|day}
+WhatDayIntent {june sixth|day}
+WhatDayIntent {june seventh|day}
+WhatDayIntent {june eighth|day}
+WhatDayIntent {june ninth|day}
+WhatDayIntent {june tenth|day}
+WhatDayIntent {june eleventh|day}
+WhatDayIntent {june twelfth|day}
+WhatDayIntent {june thirteenth|day}
+WhatDayIntent {june fourteenth|day}
+WhatDayIntent {june fifteenth|day}
+WhatDayIntent {june sixteenth|day}
+WhatDayIntent {june seventeenth|day}
+WhatDayIntent {june eighteenth|day}
+WhatDayIntent {june nineteenth|day}
+WhatDayIntent {june twentieth|day}
+WhatDayIntent {june twenty first|day}
+WhatDayIntent {june twenty second|day}
+WhatDayIntent {june twenty third|day}
+WhatDayIntent {june twenty fourth|day}
+WhatDayIntent {june twenty fifth|day}
+WhatDayIntent {june twenty sixth|day}
+WhatDayIntent {june twenty seventh|day}
+WhatDayIntent {june twenty eighth|day}
+WhatDayIntent {june twenty ninth|day}
+WhatDayIntent {june thirtieth|day}
+WhatDayIntent {july first|day}
+WhatDayIntent {july second|day}
+WhatDayIntent {july third|day}
+WhatDayIntent {july fourth|day}
+WhatDayIntent {july fifth|day}
+WhatDayIntent {july sixth|day}
+WhatDayIntent {july seventh|day}
+WhatDayIntent {july eighth|day}
+WhatDayIntent {july ninth|day}
+WhatDayIntent {july tenth|day}
+WhatDayIntent {july eleventh|day}
+WhatDayIntent {july twelfth|day}
+WhatDayIntent {july thirteenth|day}
+WhatDayIntent {july fourteenth|day}
+WhatDayIntent {july fifteenth|day}
+WhatDayIntent {july sixteenth|day}
+WhatDayIntent {july seventeenth|day}
+WhatDayIntent {july eighteenth|day}
+WhatDayIntent {july nineteenth|day}
+WhatDayIntent {july twentieth|day}
+WhatDayIntent {july twenty first|day}
+WhatDayIntent {july twenty second|day}
+WhatDayIntent {july twenty third|day}
+WhatDayIntent {july twenty fourth|day}
+WhatDayIntent {july twenty fifth|day}
+WhatDayIntent {july twenty sixth|day}
+WhatDayIntent {july twenty seventh|day}
+WhatDayIntent {july twenty eighth|day}
+WhatDayIntent {july twenty ninth|day}
+WhatDayIntent {july thirtieth|day}
+WhatDayIntent {july thirty first|day}
+WhatDayIntent {august first|day}
+WhatDayIntent {august second|day}
+WhatDayIntent {august third|day}
+WhatDayIntent {august fourth|day}
+WhatDayIntent {august fifth|day}
+WhatDayIntent {august sixth|day}
+WhatDayIntent {august seventh|day}
+WhatDayIntent {august eighth|day}
+WhatDayIntent {august ninth|day}
+WhatDayIntent {august tenth|day}
+WhatDayIntent {august eleventh|day}
+WhatDayIntent {august twelfth|day}
+WhatDayIntent {august thirteenth|day}
+WhatDayIntent {august fourteenth|day}
+WhatDayIntent {august fifteenth|day}
+WhatDayIntent {august sixteenth|day}
+WhatDayIntent {august seventeenth|day}
+WhatDayIntent {august eighteenth|day}
+WhatDayIntent {august nineteenth|day}
+WhatDayIntent {august twentieth|day}
+WhatDayIntent {august twenty first|day}
+WhatDayIntent {august twenty second|day}
+WhatDayIntent {august twenty third|day}
+WhatDayIntent {august twenty fourth|day}
+WhatDayIntent {august twenty fifth|day}
+WhatDayIntent {august twenty sixth|day}
+WhatDayIntent {august twenty seventh|day}
+WhatDayIntent {august twenty eighth|day}
+WhatDayIntent {august twenty ninth|day}
+WhatDayIntent {august thirtieth|day}
+WhatDayIntent {august thirty first|day}
+WhatDayIntent {september first|day}
+WhatDayIntent {september second|day}
+WhatDayIntent {september third|day}
+WhatDayIntent {september fourth|day}
+WhatDayIntent {september fifth|day}
+WhatDayIntent {september sixth|day}
+WhatDayIntent {september seventh|day}
+WhatDayIntent {september eighth|day}
+WhatDayIntent {september ninth|day}
+WhatDayIntent {september tenth|day}
+WhatDayIntent {september eleventh|day}
+WhatDayIntent {september twelfth|day}
+WhatDayIntent {september thirteenth|day}
+WhatDayIntent {september fourteenth|day}
+WhatDayIntent {september fifteenth|day}
+WhatDayIntent {september sixteenth|day}
+WhatDayIntent {september seventeenth|day}
+WhatDayIntent {september eighteenth|day}
+WhatDayIntent {september nineteenth|day}
+WhatDayIntent {september twentieth|day}
+WhatDayIntent {september twenty first|day}
+WhatDayIntent {september twenty second|day}
+WhatDayIntent {september twenty third|day}
+WhatDayIntent {september twenty fourth|day}
+WhatDayIntent {september twenty fifth|day}
+WhatDayIntent {september twenty sixth|day}
+WhatDayIntent {september twenty seventh|day}
+WhatDayIntent {september twenty eighth|day}
+WhatDayIntent {september twenty ninth|day}
+WhatDayIntent {september thirtieth|day}
+WhatDayIntent {october first|day}
+WhatDayIntent {october second|day}
+WhatDayIntent {october third|day}
+WhatDayIntent {october fourth|day}
+WhatDayIntent {october fifth|day}
+WhatDayIntent {october sixth|day}
+WhatDayIntent {october seventh|day}
+WhatDayIntent {october eighth|day}
+WhatDayIntent {october ninth|day}
+WhatDayIntent {october tenth|day}
+WhatDayIntent {october eleventh|day}
+WhatDayIntent {october twelfth|day}
+WhatDayIntent {october thirteenth|day}
+WhatDayIntent {october fourteenth|day}
+WhatDayIntent {october fifteenth|day}
+WhatDayIntent {october sixteenth|day}
+WhatDayIntent {october seventeenth|day}
+WhatDayIntent {october eighteenth|day}
+WhatDayIntent {october nineteenth|day}
+WhatDayIntent {october twentieth|day}
+WhatDayIntent {october twenty first|day}
+WhatDayIntent {october twenty second|day}
+WhatDayIntent {october twenty third|day}
+WhatDayIntent {october twenty fourth|day}
+WhatDayIntent {october twenty fifth|day}
+WhatDayIntent {october twenty sixth|day}
+WhatDayIntent {october twenty seventh|day}
+WhatDayIntent {october twenty eighth|day}
+WhatDayIntent {october twenty ninth|day}
+WhatDayIntent {october thirtieth|day}
+WhatDayIntent {october thirty first|day}
+WhatDayIntent {november first|day}
+WhatDayIntent {november second|day}
+WhatDayIntent {november third|day}
+WhatDayIntent {november fourth|day}
+WhatDayIntent {november fifth|day}
+WhatDayIntent {november sixth|day}
+WhatDayIntent {november seventh|day}
+WhatDayIntent {november eighth|day}
+WhatDayIntent {november ninth|day}
+WhatDayIntent {november tenth|day}
+WhatDayIntent {november eleventh|day}
+WhatDayIntent {november twelfth|day}
+WhatDayIntent {november thirteenth|day}
+WhatDayIntent {november fourteenth|day}
+WhatDayIntent {november fifteenth|day}
+WhatDayIntent {november sixteenth|day}
+WhatDayIntent {november seventeenth|day}
+WhatDayIntent {november eighteenth|day}
+WhatDayIntent {november nineteenth|day}
+WhatDayIntent {november twentieth|day}
+WhatDayIntent {november twenty first|day}
+WhatDayIntent {november twenty second|day}
+WhatDayIntent {november twenty third|day}
+WhatDayIntent {november twenty fourth|day}
+WhatDayIntent {november twenty fifth|day}
+WhatDayIntent {november twenty sixth|day}
+WhatDayIntent {november twenty seventh|day}
+WhatDayIntent {november twenty eighth|day}
+WhatDayIntent {november twenty ninth|day}
+WhatDayIntent {november thirtieth|day}
+WhatDayIntent {december first|day}
+WhatDayIntent {december second|day}
+WhatDayIntent {december third|day}
+WhatDayIntent {december fourth|day}
+WhatDayIntent {december fifth|day}
+WhatDayIntent {december sixth|day}
+WhatDayIntent {december seventh|day}
+WhatDayIntent {december eighth|day}
+WhatDayIntent {december ninth|day}
+WhatDayIntent {december tenth|day}
+WhatDayIntent {december eleventh|day}
+WhatDayIntent {december twelfth|day}
+WhatDayIntent {december thirteenth|day}
+WhatDayIntent {december fourteenth|day}
+WhatDayIntent {december fifteenth|day}
+WhatDayIntent {december sixteenth|day}
+WhatDayIntent {december seventeenth|day}
+WhatDayIntent {december eighteenth|day}
+WhatDayIntent {december nineteenth|day}
+WhatDayIntent {december twentieth|day}
+WhatDayIntent {december twenty first|day}
+WhatDayIntent {december twenty second|day}
+WhatDayIntent {december twenty third|day}
+WhatDayIntent {december twenty fourth|day}
+WhatDayIntent {december twenty fifth|day}
+WhatDayIntent {december twenty sixth|day}
+WhatDayIntent {december twenty seventh|day}
+WhatDayIntent {december twenty eighth|day}
+WhatDayIntent {december twenty ninth|day}
+WhatDayIntent {december thirtieth|day}
+WhatDayIntent {december thirty first|day}
+WhatDayIntent {next Monday|day}
+WhatDayIntent {next Tuesday|day}
+WhatDayIntent {next Wednesday|day}
+WhatDayIntent {next Thursday|day}
+WhatDayIntent {next Friday|day}
+WhatDayIntent {next Saturday|day}
+WhatDayIntent {next Sunday|day}
+WhatDayIntent {today|day}
+WhatDayIntent {tomorrow|day}
+WhatDayIntent {yesterday|day}
+
+
+
+HelpIntent help
