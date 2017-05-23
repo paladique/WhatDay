@@ -1,13 +1,18 @@
-#Sample AWS Lambda function for Alexa
-A simple AWS Lambda (http://aws.amazon.com/lambda) function that demonstrates how to write a skill for the Amazon Echo using the Alexa SDK.
+# What Day
+A simple [AWS Lambda](http://aws.amazon.com/lambda) function that was copied and modified from Amazon's Hello World example to make a skill that lets you know what day of the week a certain date was.
 
-## Concepts
-This simple sample has no external dependencies or session management, and shows the most basic example of how to create a Lambda function for handling Alexa Skill requests.
+_This was written in 2015 at a Alexa skills workshop, so I'm sure there's a handful of copy pasta and ugly code in here. Feel free to send a PR to fix some of it._
+
+## Examples
+    User: "Alexa, ask WhatDay was April 13 2011?"
+    Alexa: "April 13 2011 was a Wednesday"
+
+[See it in action](https://www.instagram.com/p/6qMDCivrFK/)
 
 ## Setup
 To run this example skill you need to do two things. The first is to deploy the example code in lambda, and the second is to configure the Alexa skill to use Lambda.
 
-### AWS Lambda Setup
+### AWS Lambda Setup (might have changed since 2015)
 1. Go to the AWS Console and click on the Lambda link. Note: ensure you are in us-east or you won't be able to use Alexa with Lambda.
 2. Click on the Create a Lambda Function or Get Started Now button.
 3. Name the Lambda Function "Hello_World_Example_Skill".
@@ -19,9 +24,9 @@ To run this example skill you need to do two things. The first is to deploy the 
 9. Choose Alexa Skills Kit and click submit.
 10. Click on your Lambda function name and copy the ARN to be used later in the Alexa Skill Setup
 
-### Alexa Skill Setup
+### Alexa Skill Setup (might have changed since 2015)
 1. Go to the Alexa Console (https://developer.amazon.com/edw/home.html) and click Add a New Skill.
-2. Set "HelloWorld" as the skill name and "greeter" as the invocation name, this is what is used to activate your skill. For example you would say: "Alexa, tell Greeter to say hello"
+2. Set "WhatDay" as the skill name and "Whatday" as the invocation name, this is what is used to activate your skill. For example you would say: "Alexa, tell What day to xxx"
 3. Select the Lambda ARN for the skill Endpoint and paste the ARN copied from above. Click Next.
 4. Copy the Intent Schema from the included IntentSchema.json.
 5. Copy the Sample Utterances from the included SampleUtterances.txt. Click Next.
@@ -30,7 +35,3 @@ To run this example skill you need to do two things. The first is to deploy the 
 7. You are now able to start testing your sample skill! You should be able to go to the Echo webpage (http://echo.amazon.com/#skills) and see your skill enabled.
 8. In order to test it, try to say some of the Sample Utterances from the Examples section below.
 9. Your skill is now saved and once you are finished testing you can continue to publish your skill.
-
-## Examples
-    User: "Alexa, tell Greeter to say hello"
-    Alexa: "Hello World!"
