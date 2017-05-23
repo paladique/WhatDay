@@ -7,7 +7,7 @@ _This was written in 2015 at a Alexa skills workshop, so I'm sure there's a hand
     User: "Alexa, ask WhatDay was April 13 2011?"
     Alexa: "April 13 2011 was a Wednesday"
 
-[See it in action](https://www.instagram.com/p/6qMDCivrFK/)
+[See it in action](https://www.instagram.com/p/6qMDCivrFK/). (Yes, Alexa misheard me 😂)
 
 ## Setup
 To run this example skill you need to do two things. The first is to deploy the example code in lambda, and the second is to configure the Alexa skill to use Lambda.
